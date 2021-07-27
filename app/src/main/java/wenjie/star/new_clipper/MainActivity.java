@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 /**
- * 该类存在只是为了测试的时候debug
+ * debug或禁止后台的手机用
  */
 public class MainActivity extends Activity {
 
